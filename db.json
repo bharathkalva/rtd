@@ -26,6 +26,15 @@
        "id":1,
       "name": "Covid 19 Protection",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
+      "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
+      "cost":56,
+      "categoryId":1
+    },
+    {
+       "id":6,
+      "name": "Covid 19 Protection",
+      "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
+      "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
       "categoryId":1
     },
@@ -33,6 +42,7 @@
      "id":2,
       "name": "Covid 19 Protection",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
+       "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
       "categoryId":2
     },
@@ -40,6 +50,7 @@
       "id":3,
       "name": "Covid 19 Protection",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
+      "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
       "categoryId":3
     },
@@ -47,6 +58,7 @@
       "id":4,
       "name": "Covid 19 Protection",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
+       "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
       "categoryId":4
     }

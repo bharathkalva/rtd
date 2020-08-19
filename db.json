@@ -7,24 +7,24 @@
     },
     {
       "id":2,
-      "name": "Covid 19 Protection",
+      "name": "Atta Maker",
       "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg"
     },
     {
       "id":3,
-      "name": "Covid 19 Protection",
+      "name": "Mutton",
       "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg"
     },
     {
        "id":4,
-      "name": "Covid 19 Protection",
+      "name": "Chicken",
       "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg"
     }
   ],
   "items": [
     {
        "id":1,
-      "name": "Covid 19 Protection",
+      "name": "Dettol",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
@@ -32,7 +32,7 @@
     },
     {
        "id":6,
-      "name": "Covid 19 Protection",
+      "name": "Lifebuoy",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
@@ -40,7 +40,7 @@
     },
     {
      "id":2,
-      "name": "Covid 19 Protection",
+      "name": "Napkins",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
        "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
@@ -48,7 +48,7 @@
     },
     {
       "id":3,
-      "name": "Covid 19 Protection",
+      "name": "maggie",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
@@ -56,7 +56,7 @@
     },
     {
       "id":4,
-      "name": "Covid 19 Protection",
+      "name": "Glycerine",
       "details": "https://i.ibb.co/L8Kxp6G/image1.jpg",
        "imageUrl": "https://i.ibb.co/L8Kxp6G/image1.jpg",
       "cost":56,
